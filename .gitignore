@@ -1,0 +1,6 @@
+# Python
+*.py[co]
+__pycache__
+env/
+*.mp3
+*.wav
