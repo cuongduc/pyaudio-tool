@@ -2,5 +2,6 @@
 *.py[co]
 __pycache__
 env/
+data/
 *.mp3
 *.wav
